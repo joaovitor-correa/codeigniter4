@@ -195,7 +195,7 @@
 </head>
 <body>
 
-<!-- HEADER: MENU + HEROE SECTION -->
+<!-- HEADER: MENU + HEROE SECTIONN -->
 <header>
 
     <div class="menu">
